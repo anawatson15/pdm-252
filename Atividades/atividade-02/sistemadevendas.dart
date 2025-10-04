@@ -1,4 +1,4 @@
-// Agregação e Composição
+// Agregação e Composição Equipe: Ana Vitória e Luan Victor
 import 'dart:convert';
 
 class Dependente {
